@@ -14,12 +14,12 @@
 
 <img src="https://cloud.githubusercontent.com/assets/21304543/23910813/3bcb316e-08db-11e7-9487-05b888dbbfd9.png" width="400"/>
 
-## It continues to listen in loop until the command *"Bye, Bye"* to finish the listening is pronounced.
-## Another commande *"Ok, google"* makes the app read loud texts written on the screen.
+### It continues to listen in loop until the command *"Bye, Bye"* to finish the listening is pronounced.
+### Another commande *"Ok, google"* makes the app read loud texts written on the screen.
 
 
-# SDK API 19 or later required
+## SDK API 19 or later required
 
-# Technology included
+## Technology included
 SpeechToText, TextToSpeech
 
