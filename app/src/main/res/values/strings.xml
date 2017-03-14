@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speech2Text Demo</string>
+    <string name="listening">Je vous écoute.</string>
+    <string name="startbtn">Start</string>
+</resources>
