@@ -3,10 +3,11 @@
 #
 # How to use
 #
-## Click the start button and it starts listening. With a signal tone, a Toast text appears "Je vous écoute" meaning "I'm listening" in French.
-## You can start to speak. Your speech is sent to the server. After few seconds, your speech appears on the screen. 
-### During my test, the speech recognition was good with a real device with a French language module downloaded.
-### On an emulater, it often encounters wrong recognition as shown in the image below.
+### Click the start button and it starts listening. With a signal tone, a Toast text appears "Je vous écoute" meaning "I'm listening" in French.
+
+### You can start to speak. Your speech is sent to the server. After few seconds, your speech appears on the screen. 
+#### During my test, the speech recognition was good with a real device with a French language module downloaded.
+#### On an emulater, it often encounters wrong recognition as shown in the image below. 
 
 <img src="https://cloud.githubusercontent.com/assets/21304543/23910812/3bbba10e-08db-11e7-8562-74f8dc2e3336.png" width="400"/>
 
